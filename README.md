@@ -74,9 +74,6 @@ Computer Science student skilled in **C, C++, Java, Maven, and problem-solving**
 | **CodeForces** | 4 | 368 |
 | **GeeksForGeeks** | 39+ | - |
 
-###  **Hackathon Achievements**
-- **37th Place** - CodeXtreme (Inter-college DSA Hackathon)
----
 
 ##  GitHub Analytics
 

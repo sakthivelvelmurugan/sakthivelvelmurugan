@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FE612C&text=Sakthivel%20V&fontColor=black&textBg=false&fontAlign=50&fontAlignY=50&stroke=FF033E&strokeWidth=1&reversal=false&animation=blink&desc=DSA%20Practitioner%20|%20Aspiring%20JAVA%20and%20FULL-STACK%20developer&descAlignY=81" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=CF1020%20&text=Sakthivel%20V&fontColor=FFFFFF&textBg=false&fontAlign=50&fontAlignY=50&stroke=FF0000&strokeWidth=1&reversal=false&animation=blink&desc=DSA%20Practitioner%20|%20Aspiring%20JAVA%20and%20FULL-STACK%20developer&descAlignY=81" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 

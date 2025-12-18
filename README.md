@@ -108,8 +108,11 @@ Focused on writing clean code, improving logic, and learning industry-ready tech
 
 ---
 
-## 🔴 Live Status
-![Live Status](./live-status.svg)
+Currently Learning
+->Java & Maven (industry practices)
+->Advanced Data Structures & Algorithms
+->Problem solving and optimization techniques
+->Full-Stack development best practices
 
 ---
 

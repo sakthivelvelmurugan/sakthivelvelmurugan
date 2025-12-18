@@ -1,0 +1,35 @@
+name: Update Live Status
+
+on:
+  push:
+    paths:
+      - status.json
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate SVG
+        run: |
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="700" height="120">
+          <style>
+            .t { font: 16px monospace; fill: #ffffff }
+            .bg { fill: #0d1117 }
+          </style>
+          <rect width="100%" height="100%" class="bg"/>
+          <text x="20" y="35" class="t">🟢 Current: '"$(jq -r .current status.json)"'</text>
+          <text x="20" y="65" class="t">🟡 Learning: '"$(jq -r .learning status.json)"'</text>
+          <text x="20" y="95" class="t">🔴 Mood: '"$(jq -r .mood status.json)"'</text>
+          </svg>' > live-status.svg
+
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add live-status.svg
+          git commit -m "update live status" || exit 0
+          git push

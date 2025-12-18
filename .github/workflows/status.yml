@@ -4,8 +4,6 @@ on:
   push:
     paths:
       - status.json
-  schedule:
-    - cron: "*/30 * * * *"
 
 jobs:
   update:
@@ -13,17 +11,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
       - name: Generate SVG
         run: |
+          CURRENT=$(jq -r .current status.json)
+          LEARNING=$(jq -r .learning status.json)
+          MOOD=$(jq -r .mood status.json)
           echo '<svg xmlns="http://www.w3.org/2000/svg" width="700" height="120">
           <style>
             .t { font: 16px monospace; fill: #ffffff }
             .bg { fill: #0d1117 }
           </style>
           <rect width="100%" height="100%" class="bg"/>
-          <text x="20" y="35" class="t">🟢 Current: '"$(jq -r .current status.json)"'</text>
-          <text x="20" y="65" class="t">🟡 Learning: '"$(jq -r .learning status.json)"'</text>
-          <text x="20" y="95" class="t">🔴 Mood: '"$(jq -r .mood status.json)"'</text>
+          <text x="20" y="35" class="t">🟢 Current: '"$CURRENT"'</text>
+          <text x="20" y="65" class="t">🟡 Learning: '"$LEARNING"'</text>
+          <text x="20" y="95" class="t">🔴 Mood: '"$MOOD"'</text>
           </svg>' > live-status.svg
 
       - name: Commit SVG
@@ -31,5 +35,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add live-status.svg
-          git commit -m "update live status" || exit 0
+          git commit -m "update live status" || echo "No changes to commit"
           git push

@@ -108,19 +108,8 @@ Focused on writing clean code, improving logic, and learning industry-ready tech
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sakthivelvelmurugan&theme=onestar&no-frame=true&margin-w=15" />
-</div>
-
----
-
-## Currently Learning
-- Java & Maven (industry practices)
-- Advanced Data Structures & Algorithms
-- Problem solving and optimization techniques
-- Full-Stack development best practices
+## 🔴 Live Status
+![Live Status](./live-status.svg)
 
 ---
 

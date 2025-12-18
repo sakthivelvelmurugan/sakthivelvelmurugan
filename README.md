@@ -111,9 +111,7 @@ Focused on writing clean code, improving logic, and learning industry-ready tech
 ## GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sakthivelvelmurugan&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=sakthivelvelmurugan&theme=onestar&no-frame=true&margin-w=15" />
 </div>
 
 ---

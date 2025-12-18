@@ -108,11 +108,15 @@ Focused on writing clean code, improving logic, and learning industry-ready tech
 
 ---
 
-Currently Learning
-->Java & Maven (industry practices)
-->Advanced Data Structures & Algorithms
-->Problem solving and optimization techniques
-->Full-Stack development best practices
+## 📚 Currently Learning
+
+| Area | Topics |
+|------|--------|
+| **Java & Maven** | Industry practices |
+| **Advanced Data Structures & Algorithms** | Core concepts, optimization |
+| **Problem Solving** | Techniques and optimization |
+| **Full-Stack Development** | Best practices |
+
 
 ---
 

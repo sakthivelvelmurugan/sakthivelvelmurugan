@@ -1,5 +1,8 @@
 {
-  "current": "Practicing DSA problems",
-  "learning": "Java Backend Development",
-  "mood": "Focused"
+  "status": {
+    "current": "Practicing DSA problems",
+    "learning": "Java Backend Development",
+    "mood": "Focused"
+  },
+  "updated_at": "2026-06-08"
 }

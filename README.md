@@ -98,18 +98,6 @@ Owned two AI-integrated applications end to end — design, build, containerize,
 AI-powered code documentation service. Reactive Spring Boot REST API calling an LLM to auto-generate comments across Java, Python and C++, with a BYOK key-storage architecture and a dark-themed split-panel frontend. Deployed on Railway + Vercel.
 
 </td>
-<td width="50%" valign="top">
-
-**📄 AI Resume Analyzer**
-
-![Java](https://img.shields.io/badge/-Java_21-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Tika](https://img.shields.io/badge/-Apache_Tika-D22128?style=flat-square)
-
-Built during my internship at Litz Tech. Parses resumes with Apache Tika and runs them through an LLM to generate structured, role-aware feedback — turning an unstructured PDF into an actionable evaluation.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 **🖥️ [AutoComment](https://github.com/sakthivelvelmurugan)**
 

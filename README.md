@@ -87,37 +87,59 @@ Owned two AI-integrated applications end to end — design, build, containerize,
 
 ## 🚀 Featured Builds
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🧩 CommentBox API
+
+[Repository ↗](https://github.com/sakthivelvelmurugan)
+
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java_17-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-AI-powered code documentation service built with Reactive Spring Boot and LLM integration. Supports Java, Python, and C++, features BYOK key storage, and is deployed on Railway + Vercel.
+AI-powered code documentation service built with Reactive Spring Boot. Generates comments for Java, Python, and C++ using LLMs, features BYOK key storage, and is deployed on Railway + Vercel.
 
-🔗 **Repository:** https://github.com/sakthivelvelmurugan
+</td>
 
----
+<td width="50%" valign="top">
 
 ### 🖥️ AutoComment
+
+[Repository ↗](https://github.com/sakthivelvelmurugan)
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
 
-Desktop application that automatically generates structured code comments using LLMs with a clean separation between UI, service, and parsing layers.
+Desktop application that auto-generates structured source-code comments via LLM integration with a clean separation between UI, API service layer, and JSON parsing logic.
 
-🔗 **Repository:** https://github.com/sakthivelvelmurugan
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
 ### ✅ TODO List Manager
+
+[Repository ↗](https://github.com/sakthivelvelmurugan)
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/-Swing-007396?style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Task management system built using Java Swing, MVC architecture, JDBC, and MySQL with complete CRUD functionality.
+CRUD-based task management system built using MVC architecture with MySQL persistence and efficient JDBC-based database operations.
 
-🔗 **Repository:** https://github.com/sakthivelvelmurugan
+</td>
 
+<td width="50%" valign="top">
+
+<!-- Add another project here later -->
+
+</td>
+</tr>
+</table>
 <br/>
 
 ## 🏆 Competitive Programming

@@ -45,16 +45,16 @@ I am a Computer Science & Business Systems student who likes shipping things tha
 
 **Software Engineering Intern · Litz Tech India Pvt. Ltd.**
 
-Owned two AI-integrated applications end to end — design, build, containerize, and deploy — not just local prototypes.
+Owned a AI-integrated applications end to end — design, build, containerize, and deploy — not just local prototypes.
 
 - 🧩 **CommentBox API** — reactive Spring Boot service that calls an LLM to auto-generate code documentation across Java, Python, and C++; shipped to **Railway** (backend) + **Vercel** (frontend) via **Docker**
-- 📄 **AI Resume Analyzer** — Spring Boot service using **Apache Tika** for document parsing and an LLM to evaluate resumes against role requirements
+- 
+requirements
 
 <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Apache_Tika-D22128?style=flat-square"/>
 
 </td>
 </tr>
@@ -219,7 +219,7 @@ Codeforces     966  ██████████░░░░░░░░░░
 $ cat sakthivel.txt
 
 B.Tech CSBS student, KIT, Class of 2028 | CGPA 8.30
-Shipped 2 AI-integrated Spring Boot apps end-to-end during a
+Shipped  AI-integrated Spring Boot app end-to-end during a
 Software Engineering internship at Litz Tech India
 Solved 1300+ DSA problems across LeetCode, CodeChef, Codeforces
 Core stack: Java, Spring Boot, REST APIs, MySQL, Docker

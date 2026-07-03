@@ -24,7 +24,7 @@ public class Sakthivel {
     private String  role       = "B.Tech CSBS Student @ KIT | Class of 2028";
     private double  cgpa       = 8.30;
     private int     dsaSolved  = 1300;          // and climbing
-    private String  lastShipped = "2 AI apps @ Litz Tech India internship";
+    private String  lastShipped = " AI app @ Litz Tech India internship";
 
     public String currentMission() {
         return "Turning LLM APIs into developer productivity tools.";

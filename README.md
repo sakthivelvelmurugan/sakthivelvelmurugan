@@ -98,7 +98,7 @@ Owned two AI-integrated applications end to end — design, build, containerize,
 AI-powered code documentation service. Reactive Spring Boot REST API calling an LLM to auto-generate comments across Java, Python and C++, with a BYOK key-storage architecture and a dark-themed split-panel frontend. Deployed on Railway + Vercel.
 
 </td>
-
+<td width="50%" valign="top">
 **🖥️ [AutoComment](https://github.com/sakthivelvelmurugan)**
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square) ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)

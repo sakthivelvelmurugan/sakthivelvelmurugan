@@ -87,36 +87,36 @@ Owned two AI-integrated applications end to end — design, build, containerize,
 
 ## 🚀 Featured Builds
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🧩 CommentBox API
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/-Java_17-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**🧩 [CommentBox API](https://github.com/sakthivelvelmurugan)**
+AI-powered code documentation service built with Reactive Spring Boot and LLM integration. Supports Java, Python, and C++, features BYOK key storage, and is deployed on Railway + Vercel.
 
-![Spring](https://img.shields.io/badge/-Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/-Java_17-007396?style=flat-square&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+🔗 **Repository:** https://github.com/sakthivelvelmurugan
 
-AI-powered code documentation service. Reactive Spring Boot REST API calling an LLM to auto-generate comments across Java, Python and C++, with a BYOK key-storage architecture and a dark-themed split-panel frontend. Deployed on Railway + Vercel.
+---
 
-</td>
-<td width="50%" valign="top">
-**🖥️ [AutoComment](https://github.com/sakthivelvelmurugan)**
+### 🖥️ AutoComment
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square) ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+Desktop application that automatically generates structured code comments using LLMs with a clean separation between UI, service, and parsing layers.
 
-Desktop app that auto-generates structured source code comments via LLM integration, with a clean modular split between UI, API service layer, and JSON parsing logic.
+🔗 **Repository:** https://github.com/sakthivelvelmurugan
 
-</td>
-<td width="50%" valign="top">
+---
 
-**✅ [TODO List Manager](https://github.com/sakthivelvelmurugan)**
+### ✅ TODO List Manager
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/-Swing-007396?style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/-Swing-007396?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+Task management system built using Java Swing, MVC architecture, JDBC, and MySQL with complete CRUD functionality.
 
-CRUD-based task management system built on clean MVC principles, with persistent MySQL storage and efficient JDBC-driven query handling.
-
-</td>
-</tr>
-</table>
+🔗 **Repository:** https://github.com/sakthivelvelmurugan
 
 <br/>
 

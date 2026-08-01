@@ -1,0 +1,7 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+# portrait-only (optional, run locally):
+Pillow
+numpy
+opencv-python
+rembg

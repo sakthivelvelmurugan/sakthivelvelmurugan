@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:BD93F9,50:FF79C6,100:8BE9FD&text=SAKTHIVEL%20V&fontColor=FFFFFF&fontSize=56&fontAlign=50&fontAlignY=35&stroke=BD93F9&strokeWidth=2&animation=fadeIn&desc=Java%20and%20Spring%20Boot%20Developer%20%7C%20AI-Integrated%20App%20Builder%20%7C%201300%2B%20DSA%20Problems%20Solved&descAlign=50&descAlignY=60&descSize=17" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=FF79C6&center=true&vCenter=true&width=700&lines=Building+backends+that+actually+scale;Spring+Boot+%2B+AI+%3D+CommentBox+API;1%2C300%2B+DSA+problems+and+counting;Shipped+an+AI+apps+during+my+Litz+Tech+internship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=FF79C6&center=true&vCenter=true&width=700&lines=Building+backends+that+actually+scale;Spring+Boot+%2B+AI+%3D+CommentBox+API;1%2C300%2B+DSA+problems+and+counting;Shipped+an+AI+integrated+app+during+my+Litz+Tech+internship" alt="Typing SVG" />
 
 <br/>
 
